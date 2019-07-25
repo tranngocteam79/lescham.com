@@ -1,2 +1,9 @@
-/* */
-h1.entry-title.titlePostDetail {font-size: 20px !important;}
+h1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px !important;
+    line-height: 1.1;
+    letter-spacing: -1.4px;
+    text-align: inherit;
+    color: rgb(0, 0, 0);
+}
